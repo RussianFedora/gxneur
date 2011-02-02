@@ -1,6 +1,6 @@
 Summary:	GTK wrapper for X Neural Switcher
 Name:		gxneur
-Version:	0.11.1
+Version:	0.12.0
 Release:	1%{?dist}
 
 Group:		User Interface/Desktops
@@ -70,6 +70,9 @@ rm -rf $RPM_BUILD_ROOT
 
 
 %changelog
+* Wed Feb  2 2011 Arkady L. Shane <ashejn@yandex-team.ru> 0.12.0-1
+- update to 0.12.0
+
 * Sun Nov 28 2010 Arkady L. Shane <ashejn@yandex-team.ru> 0.11.1-1
 - update to 0.11.1
 
@@ -113,7 +116,7 @@ rm -rf $RPM_BUILD_ROOT
 - 0.8.0
 - add BR aspell-devel
 
-* Tue Jul 17 2007  Arkady L. Shane <ashejn@yandex-team.ru> 0.6.2-1
+* Tue Jul 17 2007 Arkady L. Shane <ashejn@yandex-team.ru> 0.6.2-1
 - 0.6.2
 
 * Fri May 18 2007 Arkady L. Shane <ashejn@yandex-team.ru> 0.6.1-1
